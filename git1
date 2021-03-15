@@ -3,3 +3,9 @@ git add
 git commit
 git push origin master
 
+
+
+git add git1
+git commit -m "version-1" git1
+git push origin master
+
